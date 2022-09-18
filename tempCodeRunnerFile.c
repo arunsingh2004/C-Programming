@@ -1,0 +1,1 @@
+      printf("the result is %d %d %d %d %d %d %d", ++a,a++,b--,b++,--a,++b,a--);

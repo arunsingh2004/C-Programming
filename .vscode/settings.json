@@ -1,0 +1,9 @@
+{
+      "files.associations": {
+            "stdio.h": "c",
+            "ASCIIvalue.C": "cpp",
+            "GRIND.C": "cpp"
+      },
+      "problems.showCurrentInStatus": true,
+      "C_Cpp.intelliSenseEngineFallback": "Enabled"
+}
